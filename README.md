@@ -1,4 +1,4 @@
-# MMDTech2020_ICTPlayground2D
+# MMDTech2020_ICT3D
 Class repository for MM Data tech 2020 S 2
 This is a class repository hosted the tempalte for Unity Playground workshop
 If you wish to clone the project, feel free to do so.
