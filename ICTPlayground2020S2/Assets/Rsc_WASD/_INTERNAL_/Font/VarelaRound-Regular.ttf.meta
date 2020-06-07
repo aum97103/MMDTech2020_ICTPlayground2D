@@ -1,20 +1,23 @@
 fileFormatVersion: 2
-guid: 2696e3aa5aa814877a73628c10bd29c0
-timeCreated: 1489350694
-licenseType: Store
+guid: c5a09bca58b3e93479411c0d0d396d22
 TrueTypeFontImporter:
+  externalObjects: {}
   serializedVersion: 4
   fontSize: 16
   forceTextureCase: -2
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
+  fontName: Varela Round
   fontNames:
   - Varela Round
-  fallbackFontReferences: []
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2696e3aa5aa814877a73628c10bd29c0, type: 3}
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
   userData: 
   assetBundleName: 
   assetBundleVariant: 
