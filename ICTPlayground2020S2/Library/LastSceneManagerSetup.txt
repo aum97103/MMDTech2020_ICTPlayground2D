@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Rsc_WASD/Scenes/SelectCoinLevel.unity
+- path: Assets/Rsc_WASD/6088010/Scenes/SelectCoinLevel.unity
   isLoaded: 1
   isActive: 1

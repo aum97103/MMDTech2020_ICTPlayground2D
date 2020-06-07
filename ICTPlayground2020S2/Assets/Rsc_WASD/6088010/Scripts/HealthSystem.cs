@@ -18,11 +18,11 @@ public class HealthSystem : MonoBehaviour
     }
     void Update()
     {
-        HealthText.GetComponent<Text>().text = "Health: " + Health;
         if(Health <= 0)
         {
             Health = 0;
             SceneManager.LoadScene(2);
         }
+        HealthText.GetComponent<Text>().text = "Health: " + Health;
     }
 }

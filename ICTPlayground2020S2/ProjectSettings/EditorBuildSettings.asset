@@ -24,12 +24,12 @@ EditorBuildSettings:
     path: Assets/Examples/Roguelike/Roguelike.unity
     guid: ad15a26015e49439387b05c22fe7a962
   - enabled: 1
-    path: Assets/Rsc_WASD/Scenes/SelectCoinLevel.unity
+    path: Assets/Rsc_WASD/6088010/Scenes/SelectCoinLevel.unity
     guid: d34adfda028e398428e8a734a0935a16
   - enabled: 1
-    path: Assets/Rsc_WASD/Scenes/GameOver.unity
+    path: Assets/Rsc_WASD/6088010/Scenes/GameOver.unity
     guid: b60522b8d67f45d4f959712359e64126
   - enabled: 1
-    path: Assets/Rsc_WASD/Scenes/Respawn.unity
+    path: Assets/Rsc_WASD/6088010/Scenes/Respawn.unity
     guid: 624d11286ebc64a4eab4fc7c7ee68575
   m_configObjects: {}

@@ -9,7 +9,7 @@ public class Restart : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.R))
         {
-            SceneManager.LoadScene(2);
+            SceneManager.LoadScene(0);
         }
         
     }
